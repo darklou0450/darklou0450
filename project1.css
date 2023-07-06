@@ -1,0 +1,57 @@
+body{
+    background-color: darkslategrey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.header{
+    padding: 10px; 
+    background-color: gray;
+    text-align: center;
+    
+}
+
+div.header
+    h1{
+        font-size: 50px;
+        color: azure;
+    }
+
+div.menu{
+    overflow: hidden;
+    background-color: black;
+}
+
+div.menu
+    a{
+    float: left;
+    display:block; 
+    text-align:center; 
+    color: azure;
+    padding: 10px 14px;
+    text-decoration:none;
+}
+
+div.chapter{
+    text-align: center;
+    color: azure;
+    font-size: 35px;
+    border-bottom: 1px dashed black;
+}
+
+div.page{
+    font-size: 30px;
+    color: azure;
+    padding-bottom: 5px;
+}
+
+div.credit{
+    font-style: italic;
+    color: azure;
+    font-size: 25px;
+}
+
+div.content{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 20px;
+    text-align: left;
+}
